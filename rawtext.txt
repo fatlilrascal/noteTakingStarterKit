@@ -1,0 +1,56 @@
+## Preface
+This is by no means a definitive guide for note taking / handling classes in college. If this wont work for you that is fine! Everyone is different and handle things differently. This is just the set up that worked best for me and hopefully can be a good starting point / inspire ideas on how to create a system that works for you! 
+
+## Tools Used
+Microsoft OneNote : [Link](https://www.microsoft.com/en-us/microsoft-365/onenote/digital-note-taking-app?ms.url=onenotecom&rtc=1)
+Google Drive : [Link](https://www.google.com/intl/en_in/drive/)
+Google Drive Backup and Sync : [Link](https://www.google.com/intl/en_gh/drive/download/)
+Audacity : [Link](https://www.audacityteam.org/)
+
+
+## Base Set up
+
+At the very start of the semester I would make a new OneNote notebook titled "[Semester - Year]". I then would make a new section for each class I had.
+
+
+## File organization 
+I personally love Google Drive. I pay $20 a year for 100 gigs of storage and I think it is an amazing investment. If you have a student account that uses the Google Suite I am pretty sure you get a bump in storage for free too. I save everything to this so I can access across all devices and can pull everything up no matter where I am in the school.(This is especially useful if you have to print something and forgot to do it until you got to your building). The general folder layout would look like this (I will get to the lecture section later)
+
+
+Google also offers a downloadable program called "Back up and Sync" that lets you work within your computers file system. This is crazy convenient since you can just automatically save to that without having to log into google / drag drop / organize / ect. 
+
+## Page 1
+This page would always be the syllabus so I didnt have to dig through the files on my computer looking for it. It let me easily see things like how the grades are handled / contact information / office hours. If this kind of information was a bit burried inside the syllabus I would also just make a little box to the right at the start of the page with all of the information inside it.
+
+
+## Page 2
+This would always be the class calendar so it was always close by and on hand. OneNote lets you write on top of images too, so if due dates got changed I could just correct them inside the calendar. I would also keep a link to my Google Calendar I used for school so I could quickly access it when I needed to add project due dates. This would always go at the very top of the page.
+
+
+## Page 3
+I would always make page 3 a list of 10 things I was looking forward to about learning. If I couldn't come up with 10 then I would google the subject and learn more about it until I could find 10. Whenever I would start to feel apathetic about my class I would refrence back to this page to respark my interest in the subject. I believe that every class you are forced to take in college is important and there for a reason. If I was truly struggling to find a reason I would talk to the professor and ask why THEY thought it was a valuable class for my major. (This is also a really good ice breaker with your professor and can lead to future positive conversations).
+
+
+## Page 4 
+This would be a makeshift table of contents almost. One note allows you to create links from within the notebook so I would structure this to link to different chapters and the sections within the chapters. When it came to review time it was a lot easier this way to go back and work through all the chapters / sections I needed to know for tests.
+
+
+## What to take notes on in class
+I want to preface this by saying imo the MOST valuable and important thing about being in college is having a professor. It sounds silly but they are a wealth of information and I have always believed its more important to truly follow along with what the professor is saying rather than trying to take notes. I can read slides all day long but what I can't do is have constant interaction with my professor who is considered very knowledable on the subject. If I was having a rough day I put listening / asking questions and trying to soak up as much as I could over taking notes. 
+
+**What to take notes on / actual note taking**
+When I would take notes in class the big things I would try to focus on was the information the professor told us that was not on the power point slides or in the textbook. I mainly focused on this since this was information I wasn't able to go back and re read. I would also try to keep a Q&A section for EVERY question that a student asked regardless if I knew the answer or not. And then I would include the professors response. My other rule of thumb was if it was written on the board, it was important enough for me to ALSO write it in my notes. The rest of the notes were generally things I didn't know prior to class or knew I was going to have trouble trying to learn on my own later.
+
+
+## Lectures
+One of my accomodations for my ADHD was I was allowed to record lectures with my phone. I don't know if all schools allow this but always make sure you have approval to do so and the professor is aware you are recording it. Not only is it rude to do without permission I am pretty sure it is also illegal (at least in my state). I would record my lectures using the free program Audacity then upload them to my google drive to listen over later. Audacity also has a background noise filtering that would work pretty well to clean up any audio other students created. (This is also why I valued listening in person over taking notes cos once I am home I can no longer ask questions but I cant still take notes)
+
+## Structing notes inside One Note
+All of my one note pages were titled with the day of the class. And then at the top I would put the link to my cloud save of the lecture from that day. 
+
+Inside the notes for the day I would make a big header for the Chapter were on, then within that smaller headers for each section we went over. Then obviously I would take notes occordingly. 
+
+I made sure to always have something for each day, even if it was as simple as a small note that says "Went over homework from last week". Then link to said homework in my google drive & the recording of said lecture.
+
+
+Made with love for the /r/ADHD community ❤️
